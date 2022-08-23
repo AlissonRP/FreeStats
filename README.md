@@ -262,7 +262,7 @@ Formalização de conceitos, esse Módulo como já foi dito não é obrigatório
   * [Measure, Integration & Real Analysis - Axler](https://measure.axler.net/MIRA.pdf)
 </details>
 
-É de fundamental importância aprender teoria da medida antes de probabilidade avançada 
+É de fundamental importância aprender teoria da medida antes de probabilidade avançada.
 
 | Disciplina                                                                                                  |  Duração  | Playlist | Pré-requisitos |
 | :---------------------------------------------------------------------------------------------------------- | :-------:  | :-------: | :------------: |
@@ -279,12 +279,12 @@ O começo do estudo formal de probabilidade
   <summary markdown="span">Bibliografia Recomendada</summary>
 
 * Probabilidade I  
-  * b1: [Probabilidade - Aplicações à Estatística - Meyer](https://www.amazon.com.br/Probabilidade-Aplicações-Estatística-Paul-Meyer/dp/8521602944/ref=sr_1_1?keywords=paul+meyer+probabilidade&qid=1640057579&sprefix=paul+meyer+%2Caps%2C253&sr=8-1&ufe=app_do%3Aamzn1.fos.4bb5663b-6f7d-4772-84fa-7c7f565ec65b)
+  * [Probabilidade - Aplicações à Estatística - Meyer](https://www.amazon.com.br/Probabilidade-Aplicações-Estatística-Paul-Meyer/dp/8521602944/ref=sr_1_1?keywords=paul+meyer+probabilidade&qid=1640057579&sprefix=paul+meyer+%2Caps%2C253&sr=8-1&ufe=app_do%3Aamzn1.fos.4bb5663b-6f7d-4772-84fa-7c7f565ec65b)
   * b2 : [Probabilidade: um Curso Introdutório - Dantas ](https://www.amazon.com.br/Probabilidade-Introdutório-Carlos-Alberto-Barbosa/dp/8531403995/ref=pd_sbs_6/139-4786804-6922218?pd_rd_w=wWAdc&pf_rd_p=9175a6cb-27e9-4c8e-b27e-0da5a40be6eb&pf_rd_r=VTQER6Q2PQ4VNQQ04MF9&pd_rd_r=2cd45eba-416c-480a-8e17-483e3d800d6c&pd_rd_wg=oG9CM&pd_rd_i=8531403995&psc=1)
   * [:link:](https://www.youtube.com/watch?v=qUBtru_zmbc&list=PL5nbzsxqG2FOqyUPu_SHNFznUAuZMLCJI)
 * Probabilidade II 
-  * b1: [Probabilidade e Variáveis Aleatórias - Magalhães](https://www.amazon.com.br/Probabilidade-Variáveis-Aleatórias-Nascimento-Magalhaes/dp/8531409454/ref=pd_bxgy_img_2/139-4786804-6922218?pd_rd_w=mtJ6v&pf_rd_p=4a943320-02ab-4775-ad7a-eaf57d00a244&pf_rd_r=9PFEC3MDBN1AN5CRT23S&pd_rd_r=edc4a9eb-b798-43a3-8919-32912dd74071&pd_rd_wg=4n4i5&pd_rd_i=8531409454&psc=1)
-  * b2: [Probabilidade: Um Curso Moderno com Aplicações- Ross](https://www.amazon.com.br/Probabilidade-Curso-Moderno-com-Aplicações/dp/8577806219/ref=sr_1_1?__mk_pt_BR=ÅMÅŽÕÑ&crid=29UUQ9D2QBCDL&keywords=sheldon+ross&qid=1640057949&s=books&sprefix=sheldon+ross%2Cstripbooks%2C228&sr=1-1&ufe=app_do%3Aamzn1.fos.fcd6d665-32ba-4479-9f21-b774e276a678)
+  * [Probabilidade e Variáveis Aleatórias - Magalhães](https://www.amazon.com.br/Probabilidade-Variáveis-Aleatórias-Nascimento-Magalhaes/dp/8531409454/ref=pd_bxgy_img_2/139-4786804-6922218?pd_rd_w=mtJ6v&pf_rd_p=4a943320-02ab-4775-ad7a-eaf57d00a244&pf_rd_r=9PFEC3MDBN1AN5CRT23S&pd_rd_r=edc4a9eb-b798-43a3-8919-32912dd74071&pd_rd_wg=4n4i5&pd_rd_i=8531409454&psc=1)
+  * [Probabilidade: Um Curso Moderno com Aplicações- Ross](https://www.amazon.com.br/Probabilidade-Curso-Moderno-com-Aplicações/dp/8577806219/ref=sr_1_1?__mk_pt_BR=ÅMÅŽÕÑ&crid=29UUQ9D2QBCDL&keywords=sheldon+ross&qid=1640057949&s=books&sprefix=sheldon+ross%2Cstripbooks%2C228&sr=1-1&ufe=app_do%3Aamzn1.fos.fcd6d665-32ba-4479-9f21-b774e276a678)
   * [:link:](https://www.youtube.com/c/rafaelstern/playlists?view=50&sort=dd&shelf_id=3)
 * Processos Estocásticos
 </details>
@@ -300,7 +300,7 @@ O começo do estudo formal de probabilidade
   <summary markdown="span">Bibliografia Recomendada</summary>
 
 * Probabilidade pré avançada 
-  * b1: [First Look at Rigorous Probability Theory- Rosenthal](https://www.amazon.com.br/First-Look-Rigorous-Probability-Theory/dp/9812703713/ref=sr_1_2?__mk_pt_BR=ÅMÅŽÕÑ&crid=5DN8VOYPBPOU&keywords=a+first+look+at+rigorous+probability&qid=1640058103&s=books&sprefix=a+first+look+at+rigorous+probability%2Cstripbooks%2C192&sr=1-2&ufe=app_do%3Aamzn1.fos.e05b01e0-91a7-477e-a514-15a32325a6d6)
+  * [First Look at Rigorous Probability Theory- Rosenthal](https://www.amazon.com.br/First-Look-Rigorous-Probability-Theory/dp/9812703713/ref=sr_1_2?__mk_pt_BR=ÅMÅŽÕÑ&crid=5DN8VOYPBPOU&keywords=a+first+look+at+rigorous+probability&qid=1640058103&s=books&sprefix=a+first+look+at+rigorous+probability%2Cstripbooks%2C192&sr=1-2&ufe=app_do%3Aamzn1.fos.e05b01e0-91a7-477e-a514-15a32325a6d6)
 * Probabilidade Avançada
   * [Probability & Measure Theory- Ash](https://www.amazon.com.br/Probability-Measure-Theory-Robert-Ash/dp/0120652021/ref=sr_1_4?__mk_pt_BR=ÅMÅŽÕÑ&crid=3K9Q7S415LXRF&keywords=probability+and+measure&qid=1640058146&s=books&sprefix=probability+and+measure%2Cstripbooks%2C194&sr=1-4&ufe=app_do%3Aamzn1.fos.25548f35-0de7-44b3-b28e-0f56f3f96147)
   * [Probability and Stochastics- Erhan](https://www.amazon.com.br/Probability-Stochastics-261-Erhan-Çınlar/dp/0387878580/ref=sr_1_1?__mk_pt_BR=ÅMÅŽÕÑ&crid=1ZC8T0HNKBF4S&keywords=probability+and+stochastic&qid=1640058269&s=books&sprefix=probability+and+stochastic%2Cstripbooks%2C196&sr=1-1&ufe=app_do%3Aamzn1.fos.25548f35-0de7-44b3-b28e-0f56f3f96147)
@@ -320,13 +320,66 @@ Começo de inferência estatística de maneira formal:
 ## Módulo 5: Modelagem Estatística
 Se você já estudou todas as seções anteriores, a partir dessa os conteúdos não possuem formalmente uma ordem, em outras palavras você pode estudar o que deseja
 
-* Regressão Linear
-* Modelos Lineares Generalizados
-* Séries Temporais
-* Análise de sobrevivência
-* Machine Learning
-* Deep Learning
-* Estatística Espacial
+### Regressão Linear
+* 
+  <details>
+    <summary markdown="span">Bibliografia Recomendada</summary>
+
+    * [Econometria Básica - Gujarati](http://zalamsyah.staff.unja.ac.id/wp-content/uploads/sites/286/2019/11/7-Basic-Econometrics-4th-Ed.-Gujarati.pdf)
+    * [The Truth About Linear Regression - Shalizi](https://www.stat.cmu.edu/~cshalizi/TALR/)
+    * [Regression and Other Stories](https://avehtari.github.io/ROS-Examples/)
+  </details>
+
+
+### Modelos Lineares Generalizados
+*  <details>
+    <summary markdown="span">Bibliografia Recomendada</summary>
+
+    * [Generalized Linear Models - McCullagh e Nelder](https://www.utstat.toronto.edu/~brunner/oldclass/2201s11/readings/glmbook.pdf)
+    * [Generalized Linear Models With Examples in R - Dunn e Smyth](https://www.amazon.com/Generalized-Linear-Examples-Springer-Statistics/dp/1441901175https://www.amazon.com/Generalized-Linear-Examples-Springer-Statistics/dp/1441901175)
+  </details>
+
+### Séries Temporais
+
+*  <details>
+    <summary markdown="span">Bibliografia Recomendada</summary>
+
+    * [Análise de Séries Temporais - Morettin](https://www.amazon.com.br/An%C3%A1lise-S%C3%A9ries-Temporais-Pedro-Morettin/dp/8521203896)
+    * [Link útil](https://www.ime.usp.br/~pam/ST.html)
+    * [Econometria de Séries Temporais - De Losso](https://www.amazon.com.br/Econometria-S%C3%A9ries-Temporais-Rodrigo-Silveira/dp/852211157X)
+    * [Time Series: Theory and Methods - Brockwell](https://d-nb.info/949251941/04)
+  </details>
+
+### Análise de sobrevivência
+*  <details>
+    <summary markdown="span">Bibliografia Recomendada</summary>
+
+    * [Survival Analysis A Self Learning Text - Kleinbaum e Klein](https://www.amazon.com.br/Survival-Analysis-Self-Learning-David-Kleinbaum/dp/1441966455)
+    * [Análise de Sobrevivência Aplicada - Colosimo e Giolo](https://www.amazon.com.br/An%C3%A1lise-Sobreviv%C3%AAncia-Aplicada-Ant%C3%B4nio-Colosimo/dp/8521203845)
+  </details>
+  
+### Machine Learning
+*  <details>
+    <summary markdown="span">Bibliografia Recomendada</summary>
+
+    * [The Machine Learning: A Probabilistic Perspective - Murphy](https://probml.github.io/pml-book/)
+    * [Machine Learning - Tom Mitchell](https://www.cin.ufpe.br/~cavmj/Machine%20-%20Learning%20-%20Tom%20Mitchell.pdf)
+    * [A Course in Machine Learning -  Hal Daumé III](http://ciml.info/)
+  </details>
+
+
+### Deep Learning
+
+*  <details>
+    <summary markdown="span">Bibliografia Recomendada</summary>
+
+    * [Deep Learning - Goodfellow](https://www.deeplearningbook.org/)
+    * [Deep Learning with Python - Chollet](https://www.amazon.com.br/Deep-Learning-Python-Francois-Chollet/dp/1617294438)
+    * [Deep Learning for Coders with Fastai and Pytorch - Jeremy e Gugger](https://course.fast.ai/)
+  </details>
+
+
+
 
 
 
@@ -342,7 +395,7 @@ Se você já estudou todas as seções anteriores, a partir dessa os conteúdos 
 <table>
   <tr>
     <td align="center"><a href="https://lattes.ime.usp.br/mat/membro-1334333415248806.html"><img src="https://yt3.ggpht.com/ytc/AKedOLQXjOG_FJR1F_CM-xACuufppVddVUJ11oaAkQmVFg=s900-c-k-c0x00ffffff-no-rj" width="100px;" alt=""/><br /><sub><b>Alexandre Lymberopoulos</b></td>
-    <td align="center"><a href="https://www.ime.usp.br/~patriota//"><img src="https://pbs.twimg.com/profile_images/1379830539847413767/mk0AHKn-_400x400.jpg" width="100px;" alt=""/><br /><sub><b>Alexandre Patriota</b></td>
+    <td align="center"><a href="https://www.ime.usp.br/~patriota//"><img src="https://miro.medium.com/fit/c/176/176/2*2i6pAwRb_5giJosrB6H5rw.jpeg" width="100px;" alt=""/><br /><sub><b>Alexandre Patriota</b></td>
     <td align="center"><a href="http://www.iea.usp.br/pessoas/pasta-pessoac/claudio-possani"><img src="https://chc.fflch.usp.br/sites/chc.fflch.usp.br/files/styles/medium/public/2021-02/claudio%20possani.gif?itok=l8_3FM1O" width="75px;" alt=""/><br /><sub><b>Claudio Possani</b></td>
     <td align="center"><a href="https://scholar.google.com/citations?user=M4r5j0MAAAAJ&hl=en"><img src="https://www.abc.org.br/wp-content/uploads/2017/04/arton1062-1.jpg" width="110px;" height ="115px;" alt=""/><br /><sub><b>Claudio Landim</b></td>
     <td align="center"><a href="https://fil.cfh.ufsc.br/cezar-augusto-mortari/"><img src="http://editoraunesp.foreignrights.com.br/wp-content/uploads/2018/08/5-150x150.jpg" width="100px;" alt=""/><br /><sub><b>Cezar Mortari</b></td>
