@@ -311,10 +311,21 @@ Começo de inferência estatística de maneira formal:
 
 <details>
   <summary markdown="span">Bibliografia Recomendada</summary>
-* Inferência Estatística I
-* Inferência Estatística II
-* Inferência Bayesiana
+
+* **Inferência Estatística**
+  * [Statistical Inference - Casella e Berger](https://mybiostats.files.wordpress.com/2015/03/casella-berger.pdf)
+  * [A Course in Mathematical Statistics - Roussas](http://faculty.ndhu.edu.tw/~yltseng/edu/mathstatRoussas.pdf)
+
+* **Inferência Bayesiana**
+  * [Statistical Inference An Integrated Approach - Migon](https://web.icmc.usp.br/SCATUSU/Boletim_aquisicao/Boletim_Janeiro_2016/Capas_Marco_2016/BIBLIOTECA_158_Migon_Statistical0001.pdf)
+  * [A Student’s Guide to Bayesian Statistics - Lambert](https://www.amazon.com.br/Students-Guide-Bayesian-Statistics/dp/1473916364)
+  * [Bayesian Theory - Bernardo e Smith](https://statisticalsupportandresearch.files.wordpress.com/2019/03/josc3a9-m.-bernardo-adrian-f.-m.-smith-bayesian-theory-wiley-1994.pdf)
 </details>
+
+| Disciplina                                                                                                 |  Duração  | Playlist  | Pré-requisitos |
+| :--------------------------------------------------------------------------------------------------------- | :-------: | :--------:  | :------------: |
+| **Inferência Estatística**           | 9 Semanas |  [:link:](https://www.youtube.com/watch?v=Da34vphGCow&list=PL5Dg8nFln2eVsLUFxlYqjKh4Ps5nW2j1W&index=33&ab_channel=ACi%C3%AAnciadaEstat%C3%ADstica)  |       Módulo 0       |
+| **Inferência Bayesiana** | 9 Semanas | [:link:](https://www.youtube.com/watch?v=YKZ1euMRsbs&list=PL5nbzsxqG2FPrVmqbLafXqOrE3djThquN&ab_channel=GustavoFerreira) |       Módulo 0        |
 
   
 ## Módulo 5: Modelagem Estatística
@@ -407,6 +418,7 @@ Se você já estudou todas as seções anteriores, a partir dessa os conteúdos 
   <td align="center"><a href="https://impa.br/wp-content/scriptLattes/membro-5809459915075654.html"><img src="https://imaginariopuro.files.wordpress.com/2016/12/gugu_impa.jpg" width="100px;" alt=""/><br /><sub><b>Gugu</b></td>
   <td align="center"><a href="https://scholar.google.com/citations?user=M4r5j0MAAAAJ&hl=en"><img src="https://scholar.googleusercontent.com/citations?view_op=view_photo&user=M4r5j0MAAAAJ&citpid=4" width="100px;" alt=""/><br /><sub><b>Gustavo Ferreira</b></td>
   <td align="center"><a href="https://www.ime.usp.br/~martha/"><img src="https://yt3.ggpht.com/ytc/AKedOLTNCkVNz3vS6xpyEvcH3rMme0obRkAJq4NHst4BPyQ=s900-c-k-c0x00ffffff-no-rj" width="100px;" alt=""/><br /><sub><b>Martha Salerno Monteiro</b></td>
+  <td align="center"><a href="https://www.rafaelstern.science/"><img src="https://www.rafaelstern.science/authors/admin/avatar_huaf16020416d86c932f3fceb0715c710e_218831_270x270_fill_lanczos_center_3.png" width="100px;" alt=""/><br /><sub><b>Rafael B. Stern</b></td>
   
   
 
