@@ -1,8 +1,7 @@
 
 <center> <h1> Free Stats</h1> </center>
 
-<!--- Ctrl+Shift+V 
--->
+
 <p align="center"><img align="center" src="https://blogdozouza.files.wordpress.com/2019/04/logo-est.png" height="160px" width="170"/></p>
 
  Em muitas áreas de estudo atualmente é fundamental saber Estatística, mas a maioria das pessoas aprende somente o básico, porém na prática precisa-se muito mais do que isso, portanto a ideia aqui é fornecer um caminho a ser seguido para aprender Estatística por si mesmo.  
@@ -11,7 +10,7 @@ Temos como foco a **teoria** Estatística, que é atualmente pouca explorada nos
 
 <details>
   <summary markdown="span"> MÓDULO 0 </summary>
-Esse Módulo contém os requisitos mínimos para se começar estudar Estatística, é de fundamental importância que os conceitos aqui apresentados estejam bastante sedimentados pois serão utilizados inumeras vezes ao longo dos seus estudos.
+Esse Módulo contém os requisitos mínimos para se começar estudar Estatística, é de fundamental importância que os conceitos aqui apresentados estejam bastante sedimentados pois serão utilizados inúmeras vezes ao longo dos seus estudos.
 
 O que vai aprender:
 <details>
@@ -19,10 +18,10 @@ O que vai aprender:
 Lógica é o requisito básico para o estudo formal de qualquer área, assim aqui se compreende as seguintes noções básicas:
 
 
-* Quantificadores universais e existênciais
+* Quantificadores universais e existenciais
 * Tabelas-verdade
 * Sentenças condicionais e implicativas
-* Sistemas Axiomaticos e Sistemas Formais
+* Sistemas Axiomáticos e Sistemas Formais
 
 </details>
 
@@ -82,7 +81,7 @@ O que vai aprender:
 </details>
 
 <details>
-  <summary markdown="span">Geometria Análitica</summary>
+  <summary markdown="span">Geometria Analítica</summary>
 Essa disciplina tem como maior enfoque combinar com álgebra linear e lhe preparar para Cálculo II
 
 
@@ -168,23 +167,13 @@ O que vai aprender:
 
 </details>
 
-<details>
-  <summary markdown="span">Extra: Programação</summary>
-
-* [R](https://github.com/SigmaJunior/Curso_R)
-* [Python](https://www.opencpu.org/images/useR-large.png)
 
 
 
-
-</details>
-
-
-
-O principal caminho de guia será livros, entretanto algumas disciplinas também serão fornecidas video-aulas que estão aberta ao público.  
-Conteúdos de viés prático também serão explorados, porém como já foi dito, não são o enfoque principal.  
+O principal caminho de guia será livros, entretanto algumas disciplinas também é disponibilizado linsk para video-aulas que estão abertas ao público.  
+  
 ## Módulo 0
-Estatística formalmente é uma disciplina  matemática, e uma caracterítica da matemática é que o estudo é feito de forma escalonada, isso é, a apredinzagem de certos conteúdos depende de conteúdos anteriores, portanto aqui não será diferente, será necessário construir o alicerce.  
+Estatística formalmente é uma disciplina  matemática, e uma característica da matemática é que o estudo é feito de forma escalonada, isso é, a aprendizagem de certos conteúdos depende de conteúdos anteriores, portanto aqui não será diferente, será necessário construir o alicerce.  
 <details>
   <summary markdown="span">Bibliografia Recomendada</summary>
 
@@ -201,11 +190,11 @@ Estatística formalmente é uma disciplina  matemática, e uma caracterítica da
 * Inglês: Não há escapatória
 </details>
 
-| Disciplina                                                                                                  |  Duração  | Playlist | Pré-requisitos |
-| :---------------------------------------------------------------------------------------------------------- | :-------:  | :-------: | :------------: |
-| **Lógica**                                                                     | 9 Semanas | [:link:](https://cmortari.prof.ufsc.br)  | :notebook:  |       -        |
-| **Teoria Dos conjuntos** | 9 Semanas | [:link:](https://www.youtube.com/watch?v=S3_3LSJqgVg&list=PL5Dg8nFln2eVou0YbxuUiYWmjPuxTLAYe) | A pensar  |       -        |
-| [Matemática Elementar](https://www.youtube.com/channel/UCJX_7YJle8Zr9C84Ol2cCbQ)                            | 4 semanas |   coluna   |  pois é   |       -        |
+| Disciplina                                                                                                  |  Duração  | Playlist |
+| :---------------------------------------------------------------------------------------------------------- | :-------:  | :-------: 
+| **Lógica**                                                                     | 8 Semanas | [:link:](https://cmortari.prof.ufsc.br)  | :notebook:  |       -        |
+| **Teoria Dos conjuntos** | 5 Semanas | [:link:](https://www.youtube.com/watch?v=S3_3LSJqgVg&list=PL5Dg8nFln2eVou0YbxuUiYWmjPuxTLAYe) | A pensar  |       -        |
+| [Matemática Elementar](https://www.youtube.com/channel/UCJX_7YJle8Zr9C84Ol2cCbQ)                            | 9 semanas |   coluna   |  pois é   |       -        |
 
 ## Módulo 1
 Toda história tem um começo e  aqui não seria diferente, nesse Módulo será necessário aprender matemática de "ensino superior".
@@ -214,7 +203,7 @@ Toda história tem um começo e  aqui não seria diferente, nesse Módulo será 
 
 * **Cálculo de uma variável (Cálculo I)**
   * [Cálculo Volume 1 - Stewart](https://www.amazon.com.br/C-C3-A1lculo-vol-I-James-Stweart-dp-852212583X/dp/852212583X/ref=dp_ob_title_bk)
-  * [Cálculo I: Cálculo com funçôes de uma variável, com uma introduçâo à Àlgebra Linear](https://www.amazon.com.br/Cálculo-Cálculo-com-funçoes-variável-ebook/dp/B092JJ3GLX/ref=sr_1_2?__mk_pt_BR=ÅMÅŽÕÑ&crid=28B98HTWMY86J&keywords=calculo+apostol&qid=1647019118&s=digital-text&sprefix=calculo+aposto%2Cdigital-text%2C209&sr=1-2)     
+  * [Cálculo I: Cálculo com funções de uma variável, com uma introdução à Álgebra Linear](https://www.amazon.com.br/Cálculo-Cálculo-com-funçoes-variável-ebook/dp/B092JJ3GLX/ref=sr_1_2?__mk_pt_BR=ÅMÅŽÕÑ&crid=28B98HTWMY86J&keywords=calculo+apostol&qid=1647019118&s=digital-text&sprefix=calculo+aposto%2Cdigital-text%2C209&sr=1-2)     
 * **Geometria Analítica**  
   * [Vetores e geometria analítica - Paulo Winterle](https://www.amazon.com.br/Vetores-geometria-analítica-Paulo-Winterle-ebook/dp/B013H5WJW6/ref=sr_1_4?__mk_pt_BR=ÅMÅŽÕÑ&crid=3GAAZRQ23SBJF&keywords=geometria+analitica&qid=1647019195&s=digital-text&sprefix=geometria+analitic%2Cdigital-text%2C209&sr=1-4)
 * **Álgebra Linear**  
@@ -224,9 +213,9 @@ Toda história tem um começo e  aqui não seria diferente, nesse Módulo será 
 
 | Disciplina                                                                                                 |  Duração  | Playlist  | Pré-requisitos |
 | :--------------------------------------------------------------------------------------------------------- | :-------: | :--------:  | :------------: |
-| **Cálculo I**           | 9 Semanas |  [:link:](https://www.youtube.com/watch?v=WgHUHPlJETs&list=PLAudUnJeNg4tr-aiNyYCXE46L3qEZ2Nzx) |       Módulo 0       |
+| **Cálculo I**           | 12 Semanas |  [:link:](https://www.youtube.com/watch?v=WgHUHPlJETs&list=PLAudUnJeNg4tr-aiNyYCXE46L3qEZ2Nzx) |       Módulo 0       |
 | **Geometria Analítica** | 9 Semanas | [:link:](https://www.youtube.com/watch?v=KKTZz75QK1M&list=PLZ2q7OLLOFBYgAGI_1a2TAvtI0_mjRSWD)   |       Módulo 0        |
-| **Álgebra Linear**              | 4 semanas |  [:link:](https://www.youtube.com/watch?v=-JcQJFNVjaA&list=PLIEzh1OveCVczEZAjhVIVd7Qs-X8ILgnI) [:link:](https://www.youtube.com/watch?v=ZK3O402wf1c&list=PL49CF3715CB9EF31D&index=1)  |         Módulo 0        |
+| **Álgebra Linear**              | 10 semanas |  [:link:](https://www.youtube.com/watch?v=-JcQJFNVjaA&list=PLIEzh1OveCVczEZAjhVIVd7Qs-X8ILgnI) [:link:](https://www.youtube.com/watch?v=ZK3O402wf1c&list=PL49CF3715CB9EF31D&index=1)  |         Módulo 0        |
 
 
   ## Módulo 2
@@ -240,10 +229,10 @@ Aqui começa-se o estudo de estatística de fato
 * [Cálculo - vol. II: Volume 2 - Stewart](https://www.amazon.com.br/Cálculo-vol-II-James-Stweart/dp/8522125848/ref=sr_1_1?__mk_pt_BR=ÅMÅŽÕÑ&crid=10TJ79YLOB23T&keywords=Cálculo+2+stewart&qid=1650567527&s=books&sprefix=cálculo+2+stewart%2Cstripbooks%2C296&sr=1-1&ufe=app_do%3Aamzn1.fos.6a09f7ec-d911-4889-ad70-de8dd83c8a74)
 </details>
 
-| Disciplina                                                                                                 |  Duração  | Playlist  | Pré-requisitos |
-| :--------------------------------------------------------------------------------------------------------- | :-------: | :--------:  | :------------: |
-| **Estatística Elementar**           | 9 Semanas |  [:link:](https://www.youtube.com/watch?v=hESKcJbMCrI&list=PL5Dg8nFln2eU1g1wzazCDF6jusmWE2nIL) [:link:](https://www.youtube.com/watch?v=Xjf85wVFUmA&list=PL5nbzsxqG2FNVUNG9MA6eQZ1mZLIiRIm-) [:link:](https://www.youtube.com/watch?v=1KQhqswY1iY&list=PLeA0ITHjteYk-qY98yeczYLlJ5T8Tr3na) |       Módulo 0       |
-| **Cálculo II** | 9 Semanas | [:link:](https://www.youtube.com/watch?v=lQdzRBRL9Tw&list=PLAudUnJeNg4sd0TEJ9EG6hr-3d3jqrddN) |       Módulo 0        |
+| Disciplina                                                                                                 |  Duração  | Playlist  | 
+| :--------------------------------------------------------------------------------------------------------- | :-------: | :--------:  |
+| **Estatística Elementar**           | 6 Semanas |  [:link:](https://www.youtube.com/watch?v=hESKcJbMCrI&list=PL5Dg8nFln2eU1g1wzazCDF6jusmWE2nIL) [:link:](https://www.youtube.com/watch?v=Xjf85wVFUmA&list=PL5nbzsxqG2FNVUNG9MA6eQZ1mZLIiRIm-) [:link:](https://www.youtube.com/watch?v=1KQhqswY1iY&list=PLeA0ITHjteYk-qY98yeczYLlJ5T8Tr3na) |       Módulo 0       |
+| **Cálculo II** | 12 Semanas | [:link:](https://www.youtube.com/watch?v=lQdzRBRL9Tw&list=PLAudUnJeNg4sd0TEJ9EG6hr-3d3jqrddN) |       Módulo 0        |
 
 ### Módulo 2.5
 Formalização de conceitos, esse Módulo como já foi dito não é obrigatório, porém em termos teóricos é bastante importante
@@ -264,11 +253,11 @@ Formalização de conceitos, esse Módulo como já foi dito não é obrigatório
 
 É de fundamental importância aprender teoria da medida antes de probabilidade avançada.
 
-| Disciplina                                                                                                  |  Duração  | Playlist | Pré-requisitos |
-| :---------------------------------------------------------------------------------------------------------- | :-------:  | :-------: | :------------: |
-| **Análise na reta**                                                                     | 9 Semanas | [:link:](https://www.youtube.com/watch?v=Nh57TcGJelU&list=PLo4jXE-LdDTRh_XIyhRwyCup4J6D8ftTL)  | :notebook:  |       -        |
-| **Análise no rn** | 9 Semanas | [:link:](https://www.youtube.com/watch?v=mXQ3XIeYgYI&list=PLo4jXE-LdDTSadrRNyVDB8CU44InqabE0) | A pensar  |       -        |
-| **Teoria da medida**                           | 4 semanas |   [:link:](https://www.youtube.com/watch?v=oTWwfTQY-TQ&list=PLo4jXE-LdDTSln8Q8q0MNDSs69wVb2lh_)   |  pois é   |       -        |
+| Disciplina                                                                                                  |  Duração  | Playlist | 
+| :---------------------------------------------------------------------------------------------------------- | :-------:  | :-------: | 
+| **Análise na reta**                                                                     | 8 Semanas | [:link:](https://www.youtube.com/watch?v=Nh57TcGJelU&list=PLo4jXE-LdDTRh_XIyhRwyCup4J6D8ftTL)  | :notebook:  |       -        |
+| **Análise no rn** | 8 Semanas | [:link:](https://www.youtube.com/watch?v=mXQ3XIeYgYI&list=PLo4jXE-LdDTSadrRNyVDB8CU44InqabE0) | A pensar  |       -        |
+| **Teoria da medida**                           | 9 semanas |   [:link:](https://www.youtube.com/watch?v=oTWwfTQY-TQ&list=PLo4jXE-LdDTSln8Q8q0MNDSs69wVb2lh_)   |  pois é   |       -        |
 
 
 
@@ -289,11 +278,11 @@ O começo do estudo formal de probabilidade
 * Processos Estocásticos
 </details>
 
-| Disciplina                                                                                                 |  Duração  | Playlist  | Pré-requisitos |
-| :--------------------------------------------------------------------------------------------------------- | :-------: | :--------:  | :------------: |
-| **Probabilidade I**           | 9 Semanas |  [:link:](https://www.youtube.com/watch?v=qUBtru_zmbc&list=PL5nbzsxqG2FOqyUPu_SHNFznUAuZMLCJI)  |       Módulo 0       |
-| **Probabilidade II** | 9 Semanas | [:link:](https://www.youtube.com/c/rafaelstern/playlists) |       Módulo 0        |
-| **Probabilidade Pré Avançada** | 9 Semanas | [:link:](https://www.youtube.com/watch?v=Q5bGmDTZQhk&list=PLo4jXE-LdDTS5BYqea-LcHdtjKwVcepP7) |       Módulo 0        |
+| Disciplina                                                                                                 |  Duração  | Playlist  | 
+| :--------------------------------------------------------------------------------------------------------- | :-------: | :--------:  | 
+| **Probabilidade I**           | 10 Semanas |  [:link:](https://www.youtube.com/watch?v=qUBtru_zmbc&list=PL5nbzsxqG2FOqyUPu_SHNFznUAuZMLCJI)  |       Módulo 0       |
+| **Probabilidade II** | 10 Semanas | [:link:](https://www.youtube.com/c/rafaelstern/playlists) |       Módulo 0        |
+| **Probabilidade Pré Avançada** | 6 Semanas | [:link:](https://www.youtube.com/watch?v=Q5bGmDTZQhk&list=PLo4jXE-LdDTS5BYqea-LcHdtjKwVcepP7) |       Módulo 0        |
 ### Módulo 3.5: Probabilidade Avançada
 
 <details>
@@ -322,10 +311,10 @@ Começo de inferência estatística de maneira formal:
   * [Bayesian Theory - Bernardo e Smith](https://statisticalsupportandresearch.files.wordpress.com/2019/03/josc3a9-m.-bernardo-adrian-f.-m.-smith-bayesian-theory-wiley-1994.pdf)
 </details>
 
-| Disciplina                                                                                                 |  Duração  | Playlist  | Pré-requisitos |
-| :--------------------------------------------------------------------------------------------------------- | :-------: | :--------:  | :------------: |
-| **Inferência Estatística**           | 9 Semanas |  [:link:](https://www.youtube.com/watch?v=Da34vphGCow&list=PL5Dg8nFln2eVsLUFxlYqjKh4Ps5nW2j1W&index=33&ab_channel=ACi%C3%AAnciadaEstat%C3%ADstica)  |       Módulo 0       |
-| **Inferência Bayesiana** | 9 Semanas | [:link:](https://www.youtube.com/watch?v=YKZ1euMRsbs&list=PL5nbzsxqG2FPrVmqbLafXqOrE3djThquN&ab_channel=GustavoFerreira) |       Módulo 0        |
+| Disciplina                                                                                                 |  Duração  | Playlist  |
+| :--------------------------------------------------------------------------------------------------------- | :-------: | :--------:  | 
+| **Inferência Estatística**           | 12 Semanas |  [:link:](https://www.youtube.com/watch?v=Da34vphGCow&list=PL5Dg8nFln2eVsLUFxlYqjKh4Ps5nW2j1W&index=33&ab_channel=ACi%C3%AAnciadaEstat%C3%ADstica)  |       Módulo 0       |
+| **Inferência Bayesiana** | 10 Semanas | [:link:](https://www.youtube.com/watch?v=YKZ1euMRsbs&list=PL5nbzsxqG2FPrVmqbLafXqOrE3djThquN&ab_channel=GustavoFerreira) |       Módulo 0        |
 
   
 ## Módulo 5: Modelagem Estatística
