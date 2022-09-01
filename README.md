@@ -4,8 +4,8 @@
 
 <p align="center"><img align="center" src="https://blogdozouza.files.wordpress.com/2019/04/logo-est.png" height="160px" width="170"/></p>
 
- Em muitas áreas de estudo atualmente é fundamental saber Estatística, mas a maioria das pessoas aprende somente o básico, porém na prática precisa-se muito mais do que isso, portanto a ideia aqui é fornecer um caminho a ser seguido para aprender Estatística por si mesmo.  
-Temos como foco a **teoria** Estatística, que é atualmente pouca explorada nos cursos fornecido pelas universidades brasileiras, assim o conteúdo será desenvolvido nos seguites Módulos:
+ Em muitas áreas de estudo atualmente é fundamental saber Estatística, mas a maioria das pessoas aprende somente o básico, porém na prática precisa-se muito mais do que isso, portanto a ideia aqui é fornecer um caminho a ser seguido para aprender Estatística.  
+O foco é a **teoria** Estatística, que é atualmente pouca explorada nos cursos fornecido pelas universidades brasileiras, assim o conteúdo será desenvolvido nos seguintes Módulos:
 <center> <h2>Grade</h2> </center>
 
 <details>
@@ -104,11 +104,11 @@ Essa disciplina tem como maior enfoque combinar com álgebra linear e lhe prepar
 
 
 
-O que vai aprender:
+
 </details>
 
 
-O que vai aprender:
+
 </details>
 
 
@@ -117,17 +117,17 @@ O que vai aprender:
 
 
 <details>
-  <summary markdown="span">Probabilidade Avançada</summary>
+  <summary markdown="span">Probabilidade</summary>
 
 
 
 
 
-O que vai aprender:
+
 </details>
 
 
-O que vai aprender:
+
 </details>
 
 
@@ -136,7 +136,7 @@ O que vai aprender:
 
 
 <details>
-  <summary markdown="span">Inferência Estatística Avançada</summary>
+  <summary markdown="span">Inferência Estatística</summary>
 
 
 
@@ -156,7 +156,12 @@ O que vai aprender:
 <details>
   <summary markdown="span">Modelagem Estatística</summary>
 
-
+* Regressão Linear
+* Modelos Lineares Generalizados
+* Séries Temporais
+* Análise de Sobrevivência
+* Machine Learning
+* Deep Learning
 
 
 
@@ -350,7 +355,7 @@ Se você já estudou todas as seções anteriores, a partir dessa os conteúdos 
     * [Time Series: Theory and Methods - Brockwell](https://d-nb.info/949251941/04)
   </details>
 
-### Análise de sobrevivência
+### Análise de Sobrevivência
 *  <details>
     <summary markdown="span">Bibliografia Recomendada</summary>
 
