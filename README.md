@@ -4,8 +4,8 @@
 
 <p align="center"><img align="center" src="https://blogdozouza.files.wordpress.com/2019/04/logo-est.png" height="160px" width="170"/></p>
 
- Em muitas áreas de estudo atualmente é fundamental saber Estatística, mas a maioria das pessoas aprende somente o básico, porém na prática precisa-se muito mais do que isso, portanto a ideia aqui é fornecer um caminho a ser seguido para aprender Estatística.  
-O foco é a **teoria** Estatística, que é atualmente pouca explorada nos cursos fornecido pelas universidades brasileiras, assim o conteúdo será desenvolvido nos seguintes Módulos:
+ Em muitas áreas de estudo atualmente é fundamental saber Estatística, mas a maioria dos estudantes aprende somente o básico, porém na prática precisa-se muito mais do que isso, portanto a ideia aqui é fornecer um caminho a ser seguido para estudar Estatística de forma independente.  
+O foco é a **teoria** Estatística, que  atualmente é pouca explorada nos cursos fornecidos pelas universidades brasileiras, assim o conteúdo será desenvolvido nos seguintes Módulos
 <center> <h2>Grade</h2> </center>
 
 <details>
@@ -56,7 +56,7 @@ Nesse módulo começa-se o aprendizado de matemática **fundamental** para a Est
 <details>
   <summary markdown="span"> Cálculo I</summary>
 
-Cálculo é peça chave para cálculo de probabilidades, portanto é **muito** importante que vc tenha um bom domínio para conseguir avançar seus estudos, aqui você vai aprender:
+Cálculo é peça chave para cálculo de probabilidades, portanto é **muito** importante que você tenha um bom domínio para conseguir avançar seus estudos, aqui você vai aprender:
 * Limites
 * Derivadas
 * Integrais
@@ -261,8 +261,8 @@ Formalização de conceitos, esse Módulo como já foi dito não é obrigatório
 
 | Disciplina                                                                                                  |  Duração  | Playlist | 
 | :---------------------------------------------------------------------------------------------------------- | :-------:  | :-------: | 
-| **Análise na reta**                                                                     | 8 Semanas | [:link:](https://www.youtube.com/watch?v=Nh57TcGJelU&list=PLo4jXE-LdDTRh_XIyhRwyCup4J6D8ftTL)  | :notebook:  |       -        |
-| **Análise no rn** | 8 Semanas | [:link:](https://www.youtube.com/watch?v=mXQ3XIeYgYI&list=PLo4jXE-LdDTSadrRNyVDB8CU44InqabE0) | A pensar  |       -        |
+| **Análise na reta**                                                                     | 10 Semanas | [:link:](https://www.youtube.com/watch?v=Nh57TcGJelU&list=PLo4jXE-LdDTRh_XIyhRwyCup4J6D8ftTL)  | :notebook:  |       -        |
+| **Análise no rn** | 10 Semanas | [:link:](https://www.youtube.com/watch?v=mXQ3XIeYgYI&list=PLo4jXE-LdDTSadrRNyVDB8CU44InqabE0) | A pensar  |       -        |
 | **Teoria da medida**                           | 9 semanas |   [:link:](https://www.youtube.com/watch?v=oTWwfTQY-TQ&list=PLo4jXE-LdDTSln8Q8q0MNDSs69wVb2lh_)   |  pois é   |       -        |
 
 
