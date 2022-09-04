@@ -138,7 +138,8 @@ Essa disciplina tem como maior enfoque combinar com álgebra linear e lhe prepar
 <details>
   <summary markdown="span">Inferência Estatística</summary>
 
-
+* Inferênca Estatística Clássica
+* Inferência Bayesiana
 
 
 
@@ -394,8 +395,10 @@ Se você já estudou todas as seções anteriores, a partir dessa os conteúdos 
 
 
 ## Seção de agradecimento
+Agradecimentos ao seguintes docentes por disponibilizarem conteúdo didático na internet.
 
-
+<details>
+    <summary markdown="span">Docentes</summary>
 
 <table>
   <tr>
@@ -403,7 +406,7 @@ Se você já estudou todas as seções anteriores, a partir dessa os conteúdos 
     <td align="center"><a href="https://www.ime.usp.br/~patriota//"><img src="https://miro.medium.com/fit/c/176/176/2*2i6pAwRb_5giJosrB6H5rw.jpeg" width="100px;" alt=""/><br /><sub><b>Alexandre Patriota</b></td>
     <td align="center"><a href="http://www.iea.usp.br/pessoas/pasta-pessoac/claudio-possani"><img src="https://chc.fflch.usp.br/sites/chc.fflch.usp.br/files/styles/medium/public/2021-02/claudio%20possani.gif?itok=l8_3FM1O" width="75px;" alt=""/><br /><sub><b>Claudio Possani</b></td>
     <td align="center"><a href="https://scholar.google.com/citations?user=M4r5j0MAAAAJ&hl=en"><img src="https://www.abc.org.br/wp-content/uploads/2017/04/arton1062-1.jpg" width="110px;" height ="115px;" alt=""/><br /><sub><b>Claudio Landim</b></td>
-    <td align="center"><a href="https://fil.cfh.ufsc.br/cezar-augusto-mortari/"><img src="http://editoraunesp.foreignrights.com.br/wp-content/uploads/2018/08/5-150x150.jpg" width="100px;" alt=""/><br /><sub><b>Cezar Mortari</b></td>
+    <td align="center"><a href="https://fil.cfh.ufsc.br/cezar-augusto-mortari/"><img src="https://fil.cfh.ufsc.br/files/2013/04/Cezar-Augusto-Mortari-2-300x300.png" width="100px;" alt=""/><br /><sub><b>Cezar Mortari</b></td>
     
     
   
@@ -421,3 +424,4 @@ Se você já estudou todas as seções anteriores, a partir dessa os conteúdos 
   <tr>
   
 </table>
+</details>
