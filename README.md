@@ -221,7 +221,7 @@ Toda história tem um começo e  aqui não seria diferente, nesse Módulo será 
 | :--------------------------------------------------------------------------------------------------------- | :-------: | :--------:  | :------------: |
 | **Cálculo I**           | 12 Semanas |  [:link:](https://www.youtube.com/watch?v=WgHUHPlJETs&list=PLAudUnJeNg4tr-aiNyYCXE46L3qEZ2Nzx) |       Módulo 0       |
 | **Geometria Analítica** | 9 Semanas | [:link:](https://www.youtube.com/watch?v=KKTZz75QK1M&list=PLZ2q7OLLOFBYgAGI_1a2TAvtI0_mjRSWD)   |       Módulo 0        |
-| **Álgebra Linear**              | 10 semanas |  [:link:](https://www.youtube.com/watch?v=-JcQJFNVjaA&list=PLIEzh1OveCVczEZAjhVIVd7Qs-X8ILgnI) [:link:](https://www.youtube.com/watch?v=ZK3O402wf1c&list=PL49CF3715CB9EF31D&index=1)  |         Módulo 0        |
+| **Álgebra Linear**              | 10 semanas |  [:link:](https://www.youtube.com/watch?v=ZK3O402wf1c&list=PL49CF3715CB9EF31D&index=1)  |         Módulo 0        |
 
 
   ## Módulo 2
@@ -237,7 +237,7 @@ Aqui começa-se o estudo de Estatística de fato.
 
 | Disciplina                                                                                                 |  Duração  | Playlist  | 
 | :--------------------------------------------------------------------------------------------------------- | :-------: | :--------:  |
-| **Estatística Elementar**           | 6 Semanas |  [:link:](https://www.youtube.com/watch?v=hESKcJbMCrI&list=PL5Dg8nFln2eU1g1wzazCDF6jusmWE2nIL) [:link:](https://www.youtube.com/watch?v=Xjf85wVFUmA&list=PL5nbzsxqG2FNVUNG9MA6eQZ1mZLIiRIm-) [:link:](https://www.youtube.com/watch?v=1KQhqswY1iY&list=PLeA0ITHjteYk-qY98yeczYLlJ5T8Tr3na) |       Módulo 0       |
+| **Estatística Elementar**           | 6 Semanas |  [:link:](https://www.youtube.com/watch?v=hESKcJbMCrI&list=PL5Dg8nFln2eU1g1wzazCDF6jusmWE2nIL)  |       Módulo 0       |
 | **Cálculo II** | 12 Semanas | [:link:](https://www.youtube.com/watch?v=lQdzRBRL9Tw&list=PLAudUnJeNg4sd0TEJ9EG6hr-3d3jqrddN) |       Módulo 0        |
 
 ### Módulo 2.5
@@ -285,7 +285,7 @@ O começo do estudo formal de probabilidade
 | Disciplina                                                                                                 |  Duração  | Playlist  | 
 | :--------------------------------------------------------------------------------------------------------- | :-------: | :--------:  | 
 | **Probabilidade I**           | 10 Semanas |  [:link:](https://www.youtube.com/watch?v=qUBtru_zmbc&list=PL5nbzsxqG2FOqyUPu_SHNFznUAuZMLCJI)  |       Módulo 0       |
-| **Probabilidade II** | 10 Semanas | [:link:](https://www.youtube.com/c/rafaelstern/playlists) |       Módulo 0        |
+| **Probabilidade II** | 10 Semanas | [:link:](https://www.youtube.com/c/rafaelstern/playlists?view=50&sort=dd&shelf_id=3) |       Módulo 0        |
 | **Probabilidade Pré Avançada** | 6 Semanas | [:link:](https://www.youtube.com/watch?v=Q5bGmDTZQhk&list=PLo4jXE-LdDTS5BYqea-LcHdtjKwVcepP7) |       Módulo 0        |
 ### Módulo 3.5: Probabilidade Avançada
 
