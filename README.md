@@ -176,7 +176,7 @@ Essa disciplina tem como maior enfoque combinar com álgebra linear e lhe prepar
 
 
 
-O principal caminho de guia será livros, entretanto algumas disciplinas também é disponibilizado linsk para video-aulas que estão abertas ao público.  
+O principal caminho de guia será livros, entretanto algumas disciplinas também é disponibilizado links para video-aulas que estão abertas ao público.  
   
 ## Módulo 0
 Estatística formalmente é uma disciplina  matemática, e uma característica da matemática é que o estudo é feito de forma escalonada, isso é, a aprendizagem de certos conteúdos depende de conteúdos anteriores, portanto aqui não será diferente, será necessário construir o alicerce.  
@@ -225,7 +225,7 @@ Toda história tem um começo e  aqui não seria diferente, nesse Módulo será 
 
 
   ## Módulo 2
-Aqui começa-se o estudo de estatística de fato
+Aqui começa-se o estudo de Estatística de fato.
 <details>
   <summary markdown="span">Bibliografia Recomendada</summary>
 
@@ -275,13 +275,11 @@ O começo do estudo formal de probabilidade
 
 * Probabilidade I  
   * [Probabilidade - Aplicações à Estatística - Meyer](https://www.amazon.com.br/Probabilidade-Aplicações-Estatística-Paul-Meyer/dp/8521602944/ref=sr_1_1?keywords=paul+meyer+probabilidade&qid=1640057579&sprefix=paul+meyer+%2Caps%2C253&sr=8-1&ufe=app_do%3Aamzn1.fos.4bb5663b-6f7d-4772-84fa-7c7f565ec65b)
-  * b2 : [Probabilidade: um Curso Introdutório - Dantas ](https://www.amazon.com.br/Probabilidade-Introdutório-Carlos-Alberto-Barbosa/dp/8531403995/ref=pd_sbs_6/139-4786804-6922218?pd_rd_w=wWAdc&pf_rd_p=9175a6cb-27e9-4c8e-b27e-0da5a40be6eb&pf_rd_r=VTQER6Q2PQ4VNQQ04MF9&pd_rd_r=2cd45eba-416c-480a-8e17-483e3d800d6c&pd_rd_wg=oG9CM&pd_rd_i=8531403995&psc=1)
+  * [Probabilidade: um Curso Introdutório - Dantas ](https://www.amazon.com.br/Probabilidade-Introdutório-Carlos-Alberto-Barbosa/dp/8531403995/ref=pd_sbs_6/139-4786804-6922218?pd_rd_w=wWAdc&pf_rd_p=9175a6cb-27e9-4c8e-b27e-0da5a40be6eb&pf_rd_r=VTQER6Q2PQ4VNQQ04MF9&pd_rd_r=2cd45eba-416c-480a-8e17-483e3d800d6c&pd_rd_wg=oG9CM&pd_rd_i=8531403995&psc=1)
   * [:link:](https://www.youtube.com/watch?v=qUBtru_zmbc&list=PL5nbzsxqG2FOqyUPu_SHNFznUAuZMLCJI)
 * Probabilidade II 
   * [Probabilidade e Variáveis Aleatórias - Magalhães](https://www.amazon.com.br/Probabilidade-Variáveis-Aleatórias-Nascimento-Magalhaes/dp/8531409454/ref=pd_bxgy_img_2/139-4786804-6922218?pd_rd_w=mtJ6v&pf_rd_p=4a943320-02ab-4775-ad7a-eaf57d00a244&pf_rd_r=9PFEC3MDBN1AN5CRT23S&pd_rd_r=edc4a9eb-b798-43a3-8919-32912dd74071&pd_rd_wg=4n4i5&pd_rd_i=8531409454&psc=1)
   * [Probabilidade: Um Curso Moderno com Aplicações- Ross](https://www.amazon.com.br/Probabilidade-Curso-Moderno-com-Aplicações/dp/8577806219/ref=sr_1_1?__mk_pt_BR=ÅMÅŽÕÑ&crid=29UUQ9D2QBCDL&keywords=sheldon+ross&qid=1640057949&s=books&sprefix=sheldon+ross%2Cstripbooks%2C228&sr=1-1&ufe=app_do%3Aamzn1.fos.fcd6d665-32ba-4479-9f21-b774e276a678)
-  * [:link:](https://www.youtube.com/c/rafaelstern/playlists?view=50&sort=dd&shelf_id=3)
-* Processos Estocásticos
 </details>
 
 | Disciplina                                                                                                 |  Duração  | Playlist  | 
@@ -295,10 +293,10 @@ O começo do estudo formal de probabilidade
   <summary markdown="span">Bibliografia Recomendada</summary>
 
 * Probabilidade pré avançada 
-  * [First Look at Rigorous Probability Theory- Rosenthal](https://www.amazon.com.br/First-Look-Rigorous-Probability-Theory/dp/9812703713/ref=sr_1_2?__mk_pt_BR=ÅMÅŽÕÑ&crid=5DN8VOYPBPOU&keywords=a+first+look+at+rigorous+probability&qid=1640058103&s=books&sprefix=a+first+look+at+rigorous+probability%2Cstripbooks%2C192&sr=1-2&ufe=app_do%3Aamzn1.fos.e05b01e0-91a7-477e-a514-15a32325a6d6)
+  * [First Look at Rigorous Probability Theory - Rosenthal](https://www.amazon.com.br/First-Look-Rigorous-Probability-Theory/dp/9812703713/ref=sr_1_2?__mk_pt_BR=ÅMÅŽÕÑ&crid=5DN8VOYPBPOU&keywords=a+first+look+at+rigorous+probability&qid=1640058103&s=books&sprefix=a+first+look+at+rigorous+probability%2Cstripbooks%2C192&sr=1-2&ufe=app_do%3Aamzn1.fos.e05b01e0-91a7-477e-a514-15a32325a6d6)
 * Probabilidade Avançada
-  * [Probability & Measure Theory- Ash](https://www.amazon.com.br/Probability-Measure-Theory-Robert-Ash/dp/0120652021/ref=sr_1_4?__mk_pt_BR=ÅMÅŽÕÑ&crid=3K9Q7S415LXRF&keywords=probability+and+measure&qid=1640058146&s=books&sprefix=probability+and+measure%2Cstripbooks%2C194&sr=1-4&ufe=app_do%3Aamzn1.fos.25548f35-0de7-44b3-b28e-0f56f3f96147)
-  * [Probability and Stochastics- Erhan](https://www.amazon.com.br/Probability-Stochastics-261-Erhan-Çınlar/dp/0387878580/ref=sr_1_1?__mk_pt_BR=ÅMÅŽÕÑ&crid=1ZC8T0HNKBF4S&keywords=probability+and+stochastic&qid=1640058269&s=books&sprefix=probability+and+stochastic%2Cstripbooks%2C196&sr=1-1&ufe=app_do%3Aamzn1.fos.25548f35-0de7-44b3-b28e-0f56f3f96147)
+  * [Probability & Measure Theory - Ash](https://www.amazon.com.br/Probability-Measure-Theory-Robert-Ash/dp/0120652021/ref=sr_1_4?__mk_pt_BR=ÅMÅŽÕÑ&crid=3K9Q7S415LXRF&keywords=probability+and+measure&qid=1640058146&s=books&sprefix=probability+and+measure%2Cstripbooks%2C194&sr=1-4&ufe=app_do%3Aamzn1.fos.25548f35-0de7-44b3-b28e-0f56f3f96147)
+  * [Probability and Stochastics - Erhan](https://www.amazon.com.br/Probability-Stochastics-261-Erhan-Çınlar/dp/0387878580/ref=sr_1_1?__mk_pt_BR=ÅMÅŽÕÑ&crid=1ZC8T0HNKBF4S&keywords=probability+and+stochastic&qid=1640058269&s=books&sprefix=probability+and+stochastic%2Cstripbooks%2C196&sr=1-1&ufe=app_do%3Aamzn1.fos.25548f35-0de7-44b3-b28e-0f56f3f96147)
 </details>
 
 ## Módulo 4: Inferência Estatística 
@@ -324,7 +322,7 @@ Começo de inferência estatística de maneira formal:
 
   
 ## Módulo 5: Modelagem Estatística
-Se você já estudou todas as seções anteriores, a partir dessa os conteúdos não possuem formalmente uma ordem, em outras palavras você pode estudar o que deseja
+Se você já estudou todas as seções anteriores, a partir dessa os conteúdos não possuem formalmente uma ordem.
 
 ### Regressão Linear
 * 
