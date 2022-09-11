@@ -193,14 +193,13 @@ Estatística formalmente é uma disciplina  matemática, e uma característica d
 * **Matemática Elementar**: 
   *  [A Transition to Advanced Mathematics](https://www.amazon.com.br/Transition-Advanced-Mathematics-Douglas-Smith/dp/1285463269/ref=sr_1_2?keywords=a+transition+to+advanced+mathematics&qid=1640056869&sprefix=A+transition+%2Caps%2C194&sr=8-2&ufe=app_do%3Aamzn1.fos.25548f35-0de7-44b3-b28e-0f56f3f96147)
   *  [Book of Proof](https://www.amazon.com.br/Book-Proof-Richard-H-Hammack/dp/0989472124/ref=sr_1_1?__mk_pt_BR=ÅMÅŽÕÑ&crid=39KWBAR1K6YF8&keywords=Book+of+proof&qid=1640056916&sprefix=book+of+proof%2Caps%2C201&sr=8-1&ufe=app_do%3Aamzn1.fos.db68964d-7c0e-4bb2-a95c-e5cb9e32eb12)
-* Inglês: Não há escapatória
 </details>
 
 | Disciplina                                                                                                  |  Duração  | Playlist |
 | :---------------------------------------------------------------------------------------------------------- | :-------:  | :-------: 
 | **Lógica**                                                                     | 8 Semanas | [:link:](https://cmortari.prof.ufsc.br)  | :notebook:  |       -        |
 | **Teoria Dos conjuntos** | 5 Semanas | [:link:](https://www.youtube.com/watch?v=S3_3LSJqgVg&list=PL5Dg8nFln2eVou0YbxuUiYWmjPuxTLAYe) | A pensar  |       -        |
-| [Matemática Elementar](https://www.youtube.com/channel/UCJX_7YJle8Zr9C84Ol2cCbQ)                            | 9 semanas |   coluna   |  pois é   |       -        |
+| **Matemática Elementar**                            | 9 semanas |   Bibliografia   |  pois é   |       -        |
 
 ## Módulo 1
 Toda história tem um começo e  aqui não seria diferente, nesse Módulo será necessário aprender matemática de "ensino superior".
