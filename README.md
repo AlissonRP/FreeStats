@@ -387,7 +387,40 @@ Se você completou o estudo de todas as seções anteriores, a partir deste pont
   </details>
 
 
+## Livros Gerais
 
+Livros de divulgação da Estatística desempenham um papel fundamental na promoção da compreensão e do uso eficaz da Estatística em uma ampla variedade de campos. 
+Nesta seção, apresentam-se algumas recomendações de obras literárias adequadas ao público em geral.
+
+<details>
+    <summary markdown="span">Livros</summary>
+
+<table>
+  <tr>
+    <td align="center"><a href="https://lattes.ime.usp.br/mat/membro-1334333415248806.html"><img src="https://m.media-amazon.com/images/I/81KdmY4M-7L._AC_UF1000,1000_QL80_.jpg" width="100px;" alt=""/><br /><sub><b>O Andar do bêbado</b></td>
+    <td align="center"><a href="https://www.ime.usp.br/~patriota//"><img src="https://m.media-amazon.com/images/I/71C19aI7hJL._AC_UF1000,1000_QL80_.jpg" width="80px;" alt=""/><br /><sub><b>The Book of Why</b></td>
+    <td align="center"><a href="http://www.iea.usp.br/pessoas/pasta-pessoac/claudio-possani"><img src="https://m.media-amazon.com/images/I/61DueEn-0IL._AC_UF350,350_QL50_.jpg" width="80px;" alt=""/><br /><sub><b>A Teoria que não morreria</b></td>
+    <td align="center"><a href="https://scholar.google.com/citations?user=M4r5j0MAAAAJ&hl=en"><img src="https://m.media-amazon.com/images/I/71XoEZS6W+L._AC_UF1000,1000_QL80_.jpg" width="85px;" height ="120px;" alt=""/><br /><sub><b>A Lógica Do Cisne Negro</b></td>
+    <td align="center"><a href="https://fil.cfh.ufsc.br/cezar-augusto-mortari/"><img src="https://m.media-amazon.com/images/I/41ktVgT5QjL.jpg" width="108px;" alt=""/><br /><sub><b>Iludidos pelo acaso</b></td>
+    
+    
+  
+  </tr>
+    <tr>
+  <td align="center"><a href="https://impa.br/wp-content/scriptLattes/membro-5809459915075654.html"><img src="https://m.media-amazon.com/images/I/41alIv87Z5L.jpg" width="85px;" alt=""/><br /><sub><b>Rápido e devagar</b></td>
+  <td align="center"><a href="https://scholar.google.com/citations?user=M4r5j0MAAAAJ&hl=en"><img src="https://m.media-amazon.com/images/I/71sQk9TbNxL._AC_UF1000,1000_QL80_.jpg" width="79px;" alt=""/><br /><sub><b>Storytelling com Dados</b></td>
+  <td align="center"><a href="https://www.ime.usp.br/~martha/"><img src="https://m.media-amazon.com/images/I/81EPzzPu2YL._AC_UF1000,1000_QL80_.jpg" width="80px;" alt=""/><br /><sub><b>Uma senhora toma chá</b></td>
+  <td align="center"><a href="https://www.rafaelstern.science/"><img src="https://m.media-amazon.com/images/I/71xGPI6L0fL._AC_UF1000,1000_QL80_.jpg" width="80px;" alt=""/><br /><sub><b>O Algoritmo Mestre</b></td>
+  <td align="center"><a href="https://www.rafaelstern.science/"><img src="https://m.media-amazon.com/images/I/61Frc-7PRRL._AC_UF1000,1000_QL80_.jpg" width="100px;" alt=""/><br /><sub><b> Logicomix</b></td>
+  
+  
+
+  </tr>
+
+  <tr>
+  
+</table>
+</details>
 
 
 
@@ -397,7 +430,11 @@ Se você completou o estudo de todas as seções anteriores, a partir deste pont
 
 
 ## Seção de agradecimento
-Agradecimentos ao seguintes docentes por disponibilizarem conteúdo didático na internet.
+
+
+### Docentes
+Sinceros agradecimentos aos seguintes docentes por compartilharem generosamente valiosos recursos didáticos online. Suas contribuições são uma inspiração para o aprendizado contínuo e acessível.
+
 
 <details>
     <summary markdown="span">Docentes</summary>
@@ -428,7 +465,7 @@ Agradecimentos ao seguintes docentes por disponibilizarem conteúdo didático na
 </table>
 </details>
 
-
+### Revisores
 
 
 Gratidão às seguintes pessoas por dedicarem seu tempo e esforço para revisar e fornecer feedbacks
