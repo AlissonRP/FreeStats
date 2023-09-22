@@ -4,9 +4,9 @@
 
 <p align="center"><img align="center" src="img/stats.png" height="160px" width="170"/></p>
 
-A importância do conhecimento estatístico é inegável em diversas áreas de estudo contemporâneas. No entanto, é comum que a maioria dos estudantes tenha acesso apenas a um entendimento superficial dessa disciplina durante seus cursos acadêmicos. No mundo real, as demandas e complexidades que envolvem a aplicação da estatística são muito mais abrangentes. Portanto, a necessidade de adquirir proficiência estatística vai além do domínio dos conceitos básicos.
+A importância do conhecimento estatístico é inegável em diversas áreas de estudo contemporâneas. No entanto, é comum que a maioria dos estudantes tenha acesso apenas a um entendimento superficial dessa disciplina durante seus cursos acadêmicos. No mundo real, as demandas e complexidades que envolvem a aplicação da Estatística são muito mais abrangentes. Portanto, a necessidade de adquirir proficiência Estatística vai além do domínio dos conceitos básicos.
 
-Diante dessa lacuna entre o conhecimento estatístico adquirido na academia e as habilidades necessárias na prática, surge a motivação para oferecer um guia que permita aos indivíduos estudar estatística de forma independente e aprofundada. Esse caminho de estudo independente visa equipar os aprendizes com as competências necessárias para enfrentar desafios estatísticos complexos em suas respectivas áreas de atuação, promovendo uma compreensão mais sólida e aplicável da estatística.
+Diante dessa lacuna entre o conhecimento estatístico adquirido na academia e as habilidades necessárias na prática, surge a motivação para oferecer um guia que permita as pessoas estudarem Estatística de forma independente e aprofundada. Esse caminho de estudo independente visa equipar os estudantes com as competências necessárias para enfrentar desafios estatísticos complexos em suas respectivas áreas de atuação, promovendo uma compreensão mais sólida e aplicável da Estatística.
 
 O foco é a **teoria** Estatística, uma área que, no cenário atual, muitas vezes permanece subexposta nos currículos dos cursos oferecidos pelas universidades brasileiras, assim o conteúdo será desenvolvido nos seguintes Módulos
 <center> <h2>Grade</h2> </center>
@@ -177,7 +177,7 @@ O principal objetivo desta disciplina é combinação com a álgebra linear visa
 </details>
 
 
-
+<br/>
 
 O principal caminho de guia será livros, entretanto algumas disciplinas também é disponibilizado links para video-aulas que estão abertas ao público.  
   
