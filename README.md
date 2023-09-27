@@ -2,10 +2,13 @@
 <center> <h1> Free Stats</h1> </center>
 
 
-<p align="center"><img align="center" src="https://blogdozouza.files.wordpress.com/2019/04/logo-est.png" height="160px" width="170"/></p>
+<p align="center"><img align="center" src="img/stats.png" height="160px" width="170"/></p>
 
- Em muitas áreas de estudo atualmente é fundamental saber Estatística, mas a maioria dos estudantes aprende somente o básico, porém na prática precisa-se muito mais do que isso, portanto a ideia aqui é fornecer um caminho a ser seguido para estudar Estatística de forma independente.  
-O foco é a **teoria** Estatística, que  atualmente é pouca explorada nos cursos fornecidos pelas universidades brasileiras, assim o conteúdo será desenvolvido nos seguintes Módulos
+A importância do conhecimento estatístico é inegável em diversas áreas de estudo contemporâneas. No entanto, é comum que a maioria dos estudantes tenha acesso apenas a um entendimento superficial dessa disciplina durante seus cursos acadêmicos. No mundo real, as demandas e complexidades que envolvem a aplicação da Estatística são muito mais abrangentes. Portanto, a necessidade de adquirir proficiência Estatística vai além do domínio dos conceitos básicos.
+
+Diante dessa lacuna entre o conhecimento estatístico adquirido na academia e as habilidades necessárias na prática, surge a motivação para oferecer um guia que permita as pessoas estudarem Estatística de forma independente e aprofundada. Esse caminho de estudo independente visa equipar os estudantes com as competências necessárias para enfrentar desafios estatísticos complexos em suas respectivas áreas de atuação, promovendo uma compreensão mais sólida e aplicável da Estatística.
+
+O foco é a **teoria** Estatística, uma área que, no cenário atual, muitas vezes permanece subexposta nos currículos dos cursos oferecidos pelas universidades brasileiras, assim o conteúdo será desenvolvido nos seguintes Módulos
 <center> <h2>Grade</h2> </center>
 
 <details>
@@ -67,7 +70,7 @@ O que vai aprender:
 
 <details>
   <summary markdown="span"> Álgebra Linear</summary>
-Muitos modelos estatísticos podem ser descritos usando matrizes e vetores, e na verdade quanto mais você avança em Estatística você percebe que algebra linear consegue embarcar vários conceitos, portanto aqui é necessário que você aprenda:
+Conforme se avança no estudo da Estatística, torna-se evidente que muitos modelos estatísticos podem ser formulados e compreendidos por meio de matrizes e vetores. Na verdade, à medida que se aprofunda na Estatística, percebe-se que a Álgebra Linear desempenha um papel crucial na unificação e na simplificação de diversos conceitos. , portanto aqui é necessário que você aprenda:
 
 * Operações com vetores e matrizes
 * Solução de sistemas
@@ -82,7 +85,7 @@ O que vai aprender:
 
 <details>
   <summary markdown="span">Geometria Analítica</summary>
-Essa disciplina tem como maior enfoque combinar com álgebra linear e lhe preparar para Cálculo II
+O principal objetivo desta disciplina é combinação com a álgebra linear visando a preparação adequada para o estudo subsequente de Cálculo II.
 
 
 
@@ -99,7 +102,7 @@ Essa disciplina tem como maior enfoque combinar com álgebra linear e lhe prepar
 
 <details>
   <summary markdown="span">Formalização de conceitos</summary>
-Essa disciplina tem como maior enfoque combinar com álgebra linear e lhe preparar para Cálculo II
+
 
 
 
@@ -174,12 +177,12 @@ Essa disciplina tem como maior enfoque combinar com álgebra linear e lhe prepar
 </details>
 
 
-
+<br/>
 
 O principal caminho de guia será livros, entretanto algumas disciplinas também é disponibilizado links para video-aulas que estão abertas ao público.  
   
 ## Módulo 0
-Estatística formalmente é uma disciplina  matemática, e uma característica da matemática é que o estudo é feito de forma escalonada, isso é, a aprendizagem de certos conteúdos depende de conteúdos anteriores, portanto aqui não será diferente, será necessário construir o alicerce.  
+A Estatística é, formalmente, uma disciplina matemática. Uma característica intrínseca à matemática é sua abordagem escalonada, em que a aprendizagem de determinados conceitos se baseia em fundamentos previamente adquiridos. Nesse contexto, aqui também seguimos essa abordagem, onde é imperativo construir uma base sólida para avançar com sucesso.
 <details>
   <summary markdown="span">Bibliografia Recomendada</summary>
 
@@ -202,7 +205,7 @@ Estatística formalmente é uma disciplina  matemática, e uma característica d
 | **Matemática Elementar**                            | 9 semanas |   Bibliografia   |  pois é   |       -        |
 
 ## Módulo 1
-Toda história tem um começo e  aqui não seria diferente, nesse Módulo será necessário aprender matemática de "ensino superior".
+Cada jornada tem um ponto de partida e, nesta situação, não é diferente. Neste módulo, a fundação para o aprendizado de matemática de nível superior será estabelecida. É um momento crucial, pois construir uma compreensão sólida desses conceitos é essencial para o seu progresso adiante
 <details>
   <summary markdown="span">Bibliografia Recomendada</summary>
 
@@ -240,7 +243,7 @@ Aqui começa-se o estudo de Estatística de fato.
 | **Cálculo II** | 12 Semanas | [:link:](https://www.youtube.com/watch?v=lQdzRBRL9Tw&list=PLAudUnJeNg4sd0TEJ9EG6hr-3d3jqrddN) |       Módulo 0        |
 
 ### Módulo 2.5
-Formalização de conceitos, esse Módulo como já foi dito não é obrigatório, porém em termos teóricos é bastante importante
+A formalização de conceitos é o objetivo principal deste módulo, como mencionado anteriormente, embora não seja de caráter obrigatório, apresenta uma relevância substancial do ponto de vista teórico.
 <details>
   <summary markdown="span">Bibliografia Recomendada</summary>
 
@@ -256,7 +259,8 @@ Formalização de conceitos, esse Módulo como já foi dito não é obrigatório
   * [Measure, Integration & Real Analysis - Axler](https://measure.axler.net/MIRA.pdf)
 </details>
 
-É de fundamental importância aprender teoria da medida antes de probabilidade avançada.
+
+É de primordial importância adquirir proficiência na teoria da medida antes de abordar os conceitos mais avançados de probabilidade.
 
 | Disciplina                                                                                                  |  Duração  | Playlist | 
 | :---------------------------------------------------------------------------------------------------------- | :-------:  | :-------: | 
@@ -321,7 +325,8 @@ Começo de inferência estatística de maneira formal:
 
   
 ## Módulo 5: Modelagem Estatística
-Se você já estudou todas as seções anteriores, a partir dessa os conteúdos não possuem formalmente uma ordem.
+
+Se você completou o estudo de todas as seções anteriores, a partir deste ponto os conteúdos não seguem formalmente uma ordem predefinida.
 
 ### Regressão Linear
 * 
@@ -382,7 +387,40 @@ Se você já estudou todas as seções anteriores, a partir dessa os conteúdos 
   </details>
 
 
+## Livros Gerais
 
+Livros de divulgação da Estatística desempenham um papel fundamental na promoção da compreensão e do uso eficaz da Estatística em uma ampla variedade de campos. 
+Nesta seção, apresentam-se algumas recomendações de obras literárias adequadas ao público em geral.
+
+<details>
+    <summary markdown="span">Livros</summary>
+
+<table>
+  <tr>
+    <td align="center"><a href="https://www.amazon.com.br/andar-b%C3%AAbado-acaso-determina-nossas/dp/8537818100/ref=sr_1_2?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=288Z9EPHDOPLI&keywords=andar+do+bebado&qid=1695407588&sprefix=andar+do+bebado%2Caps%2C408&sr=8-2"><img src="https://m.media-amazon.com/images/I/81KdmY4M-7L._AC_UF1000,1000_QL80_.jpg" width="100px;" alt=""/><br /><sub><b>O Andar do bêbado</b></td>
+    <td align="center"><a href="https://www.amazon.com.br/Book-Why-Science-Cause-Effect/dp/1541698967/ref=sr_1_1?crid=357VIYHU0JAZK&keywords=the+book+of+why&qid=1695407636&sprefix=the+book+of+wh%2Caps%2C231&sr=8-1"><img src="https://m.media-amazon.com/images/I/71C19aI7hJL._AC_UF1000,1000_QL80_.jpg" width="80px;" alt=""/><br /><sub><b>The Book of Why</b></td>
+    <td align="center"><a href="https://www.amazon.com.br/Teoria-que-n%C3%A3o-Morreria/dp/8527310341/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1TYXFZCDTQEE5&keywords=a+teoria+que+n%C3%A3o+morreria&qid=1695407661&sprefix=a+teoria+que+nao+morreri%2Caps%2C223&sr=8-1"><img src="https://m.media-amazon.com/images/I/61DueEn-0IL._AC_UF350,350_QL50_.jpg" width="80px;" alt=""/><br /><sub><b>A Teoria que não morreria</b></td>
+    <td align="center"><a href="https://www.amazon.com.br/l%C3%B3gica-Cisne-Edi%C3%A7%C3%A3o-revista-ampliada/dp/8547001263/ref=sr_1_1_sspa?crid=1HJKEQW5YWBKA&keywords=a+l%C3%B3gica+do+cisne+negro&qid=1695407682&sprefix=a+logica+do+cisn%2Caps%2C227&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1"><img src="https://m.media-amazon.com/images/I/71XoEZS6W+L._AC_UF1000,1000_QL80_.jpg" width="85px;" height ="120px;" alt=""/><br /><sub><b>A Lógica Do Cisne Negro</b></td>
+    <td align="center"><a href="https://www.amazon.com.br/Iludidos-pelo-acaso-influ%C3%AAncia-mercados/dp/8547000968/ref=sr_1_2?crid=1TBGU696V17KZ&keywords=iludidos+pelo+acaso&qid=1695407701&sprefix=iludido%2Caps%2C227&sr=8-2"><img src="https://m.media-amazon.com/images/I/41ktVgT5QjL.jpg" width="100px;" alt=""/><br /><sub><b>Iludidos pelo acaso</b></td>
+    
+    
+  
+  </tr>
+    <tr>
+  <td align="center"><a href="https://www.amazon.com.br/R%C3%A1pido-devagar-Daniel-Kahneman/dp/853900383X/ref=sr_1_1_sspa?crid=36SX1J8PCF9DZ&keywords=rapido+e+devagar&qid=1695407719&sprefix=rapido+e+%2Caps%2C226&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1"><img src="https://m.media-amazon.com/images/I/41alIv87Z5L.jpg" width="85px;" alt=""/><br /><sub><b>Rápido e devagar</b></td>
+  <td align="center"><a href="https://www.amazon.com.br/Storytelling-com-Dados-Visualiza%C3%A7%C3%A3o-Profissionais/dp/8550804681/ref=sr_1_1_sspa?crid=1DSNIMYEI9OAQ&keywords=storytelling+com+dados&qid=1695407738&sprefix=sto%2Caps%2C233&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1"><img src="https://m.media-amazon.com/images/I/71sQk9TbNxL._AC_UF1000,1000_QL80_.jpg" width="89px;" alt=""/><br /><sub><b>Storytelling com Dados</b></td>
+  <td align="center"><a href="https://www.amazon.com.br/Uma-senhora-toma-ch%C3%A1-revolucionou/dp/853780116X/ref=sr_1_1?crid=Q1JUYCWNC7QH&keywords=uma+senhora+toma+ch%C3%A1&qid=1695407753&sprefix=uma+senhora%2Caps%2C230&sr=8-1"><img src="https://m.media-amazon.com/images/I/81EPzzPu2YL._AC_UF1000,1000_QL80_.jpg" width="80px;" alt=""/><br /><sub><b>Uma senhora toma chá</b></td>
+  <td align="center"><a href="https://www.amazon.com.br/Algoritmo-Mestre-Learning-Definitivo-Recriar%C3%A1/dp/8575225383/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=134INERNFUU5Y&keywords=o+algoritmo+mestre&qid=1695407777&sprefix=o+algoritomo+mestre%2Caps%2C210&sr=8-1"><img src="https://m.media-amazon.com/images/I/71xGPI6L0fL._AC_UF1000,1000_QL80_.jpg" width="90px;" alt=""/><br /><sub><b>O Algoritmo Mestre</b></td>
+  <td align="center"><a href="https://www.amazon.com.br/Logicomix-Search-Truth-Apostolos-Doxiadis/dp/1596914521/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1CX4JU311IRMP&keywords=logicomix&qid=1695407794&sprefix=logicomi%2Caps%2C228&sr=8-1&ufe=app_do%3Aamzn1.fos.6a09f7ec-d911-4889-ad70-de8dd83c8a74"><img src="https://m.media-amazon.com/images/I/61Frc-7PRRL._AC_UF1000,1000_QL80_.jpg" width="100px;" alt=""/><br /><sub><b> Logicomix</b></td>
+  
+  
+
+  </tr>
+
+  <tr>
+  
+</table>
+</details>
 
 
 
@@ -392,7 +430,11 @@ Se você já estudou todas as seções anteriores, a partir dessa os conteúdos 
 
 
 ## Seção de agradecimento
-Agradecimentos ao seguintes docentes por disponibilizarem conteúdo didático na internet.
+
+
+### Docentes
+Sinceros agradecimentos aos seguintes docentes por compartilharem generosamente valiosos recursos didáticos online. Suas contribuições são uma inspiração para o aprendizado contínuo e acessível.
+
 
 <details>
     <summary markdown="span">Docentes</summary>
@@ -413,6 +455,34 @@ Agradecimentos ao seguintes docentes por disponibilizarem conteúdo didático na
   <td align="center"><a href="https://scholar.google.com/citations?user=M4r5j0MAAAAJ&hl=en"><img src="https://scholar.googleusercontent.com/citations?view_op=view_photo&user=M4r5j0MAAAAJ&citpid=4" width="100px;" alt=""/><br /><sub><b>Gustavo Ferreira</b></td>
   <td align="center"><a href="https://www.ime.usp.br/~martha/"><img src="https://yt3.ggpht.com/ytc/AKedOLTNCkVNz3vS6xpyEvcH3rMme0obRkAJq4NHst4BPyQ=s900-c-k-c0x00ffffff-no-rj" width="100px;" alt=""/><br /><sub><b>Martha Salerno Monteiro</b></td>
   <td align="center"><a href="https://www.rafaelstern.science/"><img src="https://www.rafaelstern.science/authors/admin/avatar_huaf16020416d86c932f3fceb0715c710e_218831_270x270_fill_lanczos_center_3.png" width="100px;" alt=""/><br /><sub><b>Rafael B. Stern</b></td>
+  
+  
+
+  </tr>
+
+  <tr>
+  
+</table>
+</details>
+
+### Revisores
+
+
+Gratidão às seguintes pessoas por dedicarem seu tempo e esforço para revisar e fornecer feedbacks
+
+
+<details>
+    <summary markdown="span">Revisores</summary>
+
+<table>
+  <tr>
+    <td align="center"><a href="https://www.linkedin.com/in/vitorbsp/"><img src="https://media.licdn.com/dms/image/C4D03AQHdFAo5iG4kAQ/profile-displayphoto-shrink_200_200/0/1662418345338?e=1700697600&v=beta&t=DO5XePFXO2zd2DG4DHLuC0KqZ_RjloKUloLe9SoKvS4" width="100px;" alt=""/><br /><sub><b>Vitor Bernardo</b></td>
+    <td align="center"><a href="https://www.linkedin.com/in/leonardopiccaro/"><img src="https://media.licdn.com/dms/image/D4D03AQFg37DB9K6rqA/profile-displayphoto-shrink_200_200/0/1694627978766?e=1700697600&v=beta&t=vTcqiPyaK5B8EjTwcpsCfJq-nag77W2F82UZfzfqIIE" width="100px;" alt=""/><br /><sub><b>Leonardo Piccaro</b></td>
+   
+    
+    
+  
+  
   
   
 
